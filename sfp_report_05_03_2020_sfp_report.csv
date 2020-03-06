@@ -1,4 +1,4 @@
-hostname,QSFP+-40G-LR4,XFP-10G-LR,XFP-10G-ZR,XFP-10G-ER,
+hostname,sfp1,sfp2,sfp3,sfp4,
 re0.SHRNPAAQ1CW,2,4,4,0,
 re0.FKLNPAFB1CW,2,4,0,0,
 re0.CLMJOH081CW,0,14,1,0,
